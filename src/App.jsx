@@ -41,9 +41,7 @@ function App() {
         </h1>
         <div className="author">
           <a target="_blank">
-            <i className="bx bxl-youtube bx-sm">
-              Riêng bạn Kim Anh thì bận ít thôi nhé !!!
-            </i>
+            <i className="">Riêng bạn Kim Anh thì bận ít thôi nhé !!!</i>
           </a>
         </div>
         {/* Nếu muốn custom nâng cao thì sử dụng ref như ví dụ dưới đây mình làm nút Restart nhé */}
