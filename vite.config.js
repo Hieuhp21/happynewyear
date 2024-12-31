@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
 
-// Cấu hình cho Vite và GitHub Pages
+// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/fireworks-tqd/',  // Tên repo GitHub của bạn
+  base: '/happynewyear/', // Thay tên repository vào đây
 })
